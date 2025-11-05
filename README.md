@@ -73,6 +73,8 @@ npm run dev
 ```
 
 ### Project Structure
+
+```bash
 tomato-notes/
 ├── backend/
 │   ├── core/
@@ -86,6 +88,7 @@ tomato-notes/
 │   ├── .env.local
 │   └── package.json
 └── docker-compose.yml
+```
 
 ### Author
 Diego Ampuero
